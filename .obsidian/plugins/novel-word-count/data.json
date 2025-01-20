@@ -142,6 +142,34 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Mi/syzkaller/配置文件.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1731,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.77,
+      "characterCount": 6916,
+      "nonWhitespaceCharacterCount": 5985,
+      "readingTimeInMinutes": 4.102264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737367582549,
+      "modifiedDate": 1737376743795,
+      "sizeInBytes": 10091,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.77,
+        "wordCount": 1731,
+        "characterCount": 6916,
+        "nonWhitespaceCharacterCount": 5985
+      },
+      "frontmatter": {
+        "描述": null
+      }
+    },
     "Mi/syzkaller/语法描述.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -165,38 +193,6 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Mi/syzkaller/配置文件.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1728,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.76,
-      "characterCount": 6902,
-      "nonWhitespaceCharacterCount": 5973,
-      "readingTimeInMinutes": 4.094490566037736,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [
-        "config.go"
-      ],
-      "createdDate": 1737367582549,
-      "modifiedDate": 1737369522374,
-      "sizeInBytes": 10088,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.76,
-        "wordCount": 1728,
-        "characterCount": 6902,
-        "nonWhitespaceCharacterCount": 5973
-      },
-      "frontmatter": {
-        "aliases": [
-          "config.go"
-        ]
       }
     },
     "IOS/swift 基础语法.md": {

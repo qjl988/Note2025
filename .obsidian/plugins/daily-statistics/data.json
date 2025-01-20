@@ -1,6 +1,6 @@
 {
   "dayCounts": {
-    "2025-01-20": 6815
+    "2025-01-20": 6924
   },
   "todayWordCount": {
     "Daily/2025-01-20.md": {
@@ -17,7 +17,7 @@
     },
     "Mi/syzkaller/配置文件.md": {
       "initial": 3,
-      "current": 6818
+      "current": 6927
     },
     "知识库/git 操作.md": {
       "initial": 117,
@@ -26,6 +26,14 @@
     "Mi/syzkaller/语法描述.md": {
       "initial": 917,
       "current": 917
+    },
+    "().md": {
+      "initial": 0,
+      "current": 0
+    },
+    "｜啊实打实.md": {
+      "initial": 0,
+      "current": 0
     }
   },
   "weeklyPlan": {},
