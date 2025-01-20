@@ -161,8 +161,8 @@
             "state": {
               "type": "CalendarView",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -198,10 +198,13 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "c01cb3ff5dbfba79",
+  "active": "521d8f45f69df9ce",
   "lastOpenFiles": [
-    "｜啊实打实.md",
+    "pkg/mgrconfig/config.go.md",
     "Mi/syzkaller/配置文件.md",
+    "pkg/mgrconfig",
+    "pkg",
+    "｜啊实打实.md",
     "().md",
     "Mi/syzkaller/语法描述.md",
     "白板/test.canvas",
