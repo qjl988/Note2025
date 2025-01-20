@@ -194,8 +194,8 @@
       "templates:插入模板": true,
       "command-palette:打开命令面板": false,
       "publish:发布更改": true,
-      "obsidian-git:Open Git source control": false,
-      "switcher:打开快速切换": false
+      "switcher:打开快速切换": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "521d8f45f69df9ce",
