@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67181622695bcf2e",
+        "id": "ae93b9d6a625f815",
         "type": "tabs",
         "children": [
           {
-            "id": "098ad8e44f598f46",
+            "id": "b18e79dac31bd51c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,8 +161,22 @@
             "state": {
               "type": "CalendarView",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Daily statistics"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "21f8520e3d3060b7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -170,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,12 +199,14 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "098ad8e44f598f46",
+  "active": "b18e79dac31bd51c",
   "lastOpenFiles": [
-    "Daily/2025-01-20.md",
+    "Mi/syzkaller/语法描述.md",
     "Mi/syzkaller/配置文件.md",
-    "test.md",
+    "白板/test.canvas",
     "知识库/git 操作.md",
+    "Daily/2025-01-20.md",
+    "test.md",
     "白板",
     "未命名.canvas",
     "IOS/swift 基础语法.md",
@@ -203,7 +220,6 @@
     "Linux/attachment",
     "Pasted image 20250120160255.png",
     "Linux/images/image-20250120160222224.png",
-    "Mi/syzkaller/语法描述.md",
     "知识库/git 操作~.md",
     "知识库/Untitled.md",
     "知识库",

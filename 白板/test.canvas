@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"594f14c6ef5381a3","x":60,"y":-240,"width":814,"height":563,"type":"file","file":"Mi/syzkaller/语法描述.md"},
+		{"id":"4b19d847e0738526","x":-440,"y":-158,"width":420,"height":518,"type":"file","file":"Mi/syzkaller/配置文件.md"},
+		{"id":"57a060bc2626fc6d","x":-20,"y":460,"width":439,"height":346,"type":"text","text":"obsidian://open?vault=Note2025&file=Mi%2Fsyzkaller%2F%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6"}
+	],
+	"edges":[
+		{"id":"d5e69d90d0df0a23","fromNode":"4b19d847e0738526","fromSide":"right","toNode":"594f14c6ef5381a3","toSide":"left"},
+		{"id":"e5974d3fbad1f464","fromNode":"57a060bc2626fc6d","fromSide":"top","toNode":"594f14c6ef5381a3","toSide":"bottom"}
+	]
+}
