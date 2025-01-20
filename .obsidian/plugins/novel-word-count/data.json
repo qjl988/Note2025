@@ -67,31 +67,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "知识库/git 操作.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 113,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37666666666666665,
-      "characterCount": 588,
-      "nonWhitespaceCharacterCount": 510,
-      "readingTimeInMinutes": 0.3217735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737390089970,
-      "modifiedDate": 1737390142213,
-      "sizeInBytes": 708,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 126,
-        "nonWhitespaceCharacterCount": 99
-      }
-    },
     "白板/test.canvas": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -270,7 +245,32 @@
         "nonWhitespaceCharacterCount": 4
       }
     },
-    "知识库/node命令.md": {
+    "知识库/git/git 操作.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 113,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 588,
+      "nonWhitespaceCharacterCount": 510,
+      "readingTimeInMinutes": 0.3217735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737390089970,
+      "modifiedDate": 1737390142213,
+      "sizeInBytes": 708,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "知识库/node/node命令.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -287,6 +287,31 @@
       "createdDate": 1737390205797,
       "modifiedDate": 1737390215209,
       "sizeInBytes": 347,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "知识库/git/git笔记.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3332,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 11.106666666666667,
+      "characterCount": 8727,
+      "nonWhitespaceCharacterCount": 7998,
+      "readingTimeInMinutes": 7.609320754716981,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737390373873,
+      "modifiedDate": 1737390392433,
+      "sizeInBytes": 14887,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/node命令.md",
+                "file": "知识库/git/git笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "node命令"
+              "title": "git笔记"
             }
           }
         ]
@@ -200,8 +200,11 @@
   },
   "active": "521d8f45f69df9ce",
   "lastOpenFiles": [
-    "知识库/git 操作.md",
-    "知识库/node命令.md",
+    "知识库/git/git 操作.md",
+    "知识库/git/git笔记.md",
+    "知识库/node/node命令.md",
+    "知识库/node",
+    "知识库/git",
     "Mi/syzkaller/配置文件.md",
     "pkg/mgrconfig/config.go.md",
     "pkg/mgrconfig",
