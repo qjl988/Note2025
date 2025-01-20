@@ -67,6 +67,31 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "知识库/git 操作.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737355343986,
+      "modifiedDate": 1737355464081,
+      "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "README.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -92,54 +117,36 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "知识库/git 操作.md": {
+    "Mi/syzkaller/配置文件.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 1682,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 117,
-      "nonWhitespaceCharacterCount": 99,
-      "readingTimeInMinutes": 0.04928301886792452,
+      "pageCount": 5.6066666666666665,
+      "characterCount": 6309,
+      "nonWhitespaceCharacterCount": 5526,
+      "readingTimeInMinutes": 3.9457358490566037,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1737355343986,
-      "modifiedDate": 1737355464081,
-      "sizeInBytes": 121,
+      "aliases": [
+        "config.go"
+      ],
+      "createdDate": 1737367582549,
+      "modifiedDate": 1737368104715,
+      "sizeInBytes": 9467,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 117,
-        "nonWhitespaceCharacterCount": 99
-      }
-    },
-    "test.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1737024419488,
-      "modifiedDate": 1737025025537,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
+        "pageCount": 5.6066666666666665,
+        "wordCount": 1682,
+        "characterCount": 6309,
+        "nonWhitespaceCharacterCount": 5526
+      },
+      "frontmatter": {
+        "aliases": [
+          "config.go"
+        ]
       }
     },
     "Mi/syzkaller/语法描述.md": {
@@ -170,26 +177,26 @@
     "IOS/swift 基础语法.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 5,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.016666666666666666,
-      "characterCount": 9,
-      "nonWhitespaceCharacterCount": 6,
-      "readingTimeInMinutes": 0.01,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1737173675624,
       "modifiedDate": 1737207300313,
       "sizeInBytes": 19,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.016666666666666666,
-        "wordCount": 5,
-        "characterCount": 9,
-        "nonWhitespaceCharacterCount": 6
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Daily/attachment/Pasted image 20250120173859.png": {
@@ -220,26 +227,26 @@
     "Daily/2025-01-20.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 136,
-      "nonWhitespaceCharacterCount": 121,
-      "readingTimeInMinutes": 0.06796226415094339,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
       "createdDate": 1737360847451,
-      "modifiedDate": 1737366167537,
-      "sizeInBytes": 170,
+      "modifiedDate": 1737367567639,
+      "sizeInBytes": 4,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 136,
-        "nonWhitespaceCharacterCount": 121
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
