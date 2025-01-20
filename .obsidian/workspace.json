@@ -161,18 +161,8 @@
             "state": {
               "type": "CalendarView",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "1a5a4be12a9ee914",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
             }
           },
           {
@@ -190,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
