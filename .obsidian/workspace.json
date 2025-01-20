@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,11 +195,10 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": true,
       "obsidian-git:Open Git source control": false,
-      "switcher:打开快速切换": false,
-      "copilot:Open Copilot Chat": false
+      "switcher:打开快速切换": false
     }
   },
-  "active": "521d8f45f69df9ce",
+  "active": "c01cb3ff5dbfba79",
   "lastOpenFiles": [
     "｜啊实打实.md",
     "Mi/syzkaller/配置文件.md",
