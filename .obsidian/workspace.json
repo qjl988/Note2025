@@ -174,11 +174,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "publish:发布更改": false
     }
   },
   "active": "ca22b2fc0bcfdc33",
   "lastOpenFiles": [
+    "知识库/git 操作~.md",
+    "知识库/git 操作.md",
+    "知识库/Untitled.md",
+    "知识库",
+    "Untitled Folder",
     "Mi/syzkaller/语法描述.md",
     "README.md"
   ]
