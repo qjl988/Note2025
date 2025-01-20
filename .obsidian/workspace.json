@@ -161,31 +161,26 @@
             "state": {
               "type": "CalendarView",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
             }
           },
           {
-            "id": "21f8520e3d3060b7",
+            "id": "1a5a4be12a9ee914",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +191,11 @@
       "command-palette:打开命令面板": false,
       "publish:发布更改": true,
       "obsidian-git:Open Git source control": false,
-      "switcher:打开快速切换": false
+      "switcher:打开快速切换": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b18e79dac31bd51c",
+  "active": "1a5a4be12a9ee914",
   "lastOpenFiles": [
     "Mi/syzkaller/语法描述.md",
     "Mi/syzkaller/配置文件.md",
