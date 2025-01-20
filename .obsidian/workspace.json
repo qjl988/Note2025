@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2025-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "2025-01-20 的反向链接列表"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2025-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "2025-01-20 的出链列表"
             }
           },
           {
@@ -166,9 +168,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d2225f419cf91b4a",
+            "type": "leaf",
+            "state": {
+              "type": "CalendarView",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Daily statistics"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -186,10 +198,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098ad8e44f598f46",
+  "active": "d2225f419cf91b4a",
   "lastOpenFiles": [
-    "IOS/swift 基础语法.md",
+    "知识库/git 操作.md",
     "Daily/2025-01-20.md",
+    "白板",
+    "未命名.canvas",
+    "IOS/swift 基础语法.md",
     "Daily/attachment/Pasted image 20250120173859.png",
     "Daily/attachment",
     "2025-01-20.md",
@@ -203,7 +218,6 @@
     "Linux/images/image-20250120160222224.png",
     "Mi/syzkaller/语法描述.md",
     "知识库/git 操作~.md",
-    "知识库/git 操作.md",
     "知识库/Untitled.md",
     "知识库",
     "Untitled Folder"
