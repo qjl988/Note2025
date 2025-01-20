@@ -269,6 +269,31 @@
         "characterCount": 4,
         "nonWhitespaceCharacterCount": 4
       }
+    },
+    "知识库/node命令.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 63,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 217,
+      "readingTimeInMinutes": 0.1721132075471698,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1737390205797,
+      "modifiedDate": 1737390215209,
+      "sizeInBytes": 347,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
     }
   }
 }
