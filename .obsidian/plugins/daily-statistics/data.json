@@ -1,16 +1,33 @@
 {
   "dayCounts": {
-    "2025-01-20": 7022,
-    "2025-01-21": 0
+    "2025-01-20": 6993,
+    "2025-01-21": 462,
+    "2025-01-22": 0
   },
   "todayWordCount": {
+    "知识库/git/git笔记.md": {
+      "initial": 8727,
+      "current": 8727
+    },
+    "conflict-files-obsidian-git.md": {
+      "initial": 703,
+      "current": 703
+    },
+    "知识库/node/node命令.md": {
+      "initial": 259,
+      "current": 259
+    },
+    "Daily/2025-01-20.md": {
+      "initial": 4,
+      "current": 4
+    },
+    "Mi/syzkaller/语法描述.md": {
+      "initial": 985,
+      "current": 946
+    },
     "Mi/syzkaller/配置文件.md": {
       "initial": 6996,
       "current": 6996
-    },
-    "知识库/git 操作.md": {
-      "initial": 117,
-      "current": 117
     }
   },
   "weeklyPlan": {},
