@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi/syzkaller/配置文件.md",
+                "file": "知识库/git 操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "配置文件"
+              "title": "git 操作"
             }
           }
         ]
@@ -198,14 +198,17 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "521d8f45f69df9ce",
+  "active": "abc35fd54f1618f6",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "知识库/git 操作.md",
     "知识库/node/node命令.md",
     "知识库/node",
     "知识库/git/git笔记.md",
     "知识库/git/git 操作.md",
     "知识库/git",
+=======
+>>>>>>> Stashed changes
     "Mi/syzkaller/配置文件.md",
     "Mi/syzkaller/语法描述.md",
     "pkg/mgrconfig/config.go.md",
