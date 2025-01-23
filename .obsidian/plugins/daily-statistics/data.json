@@ -1,33 +1,41 @@
 {
   "dayCounts": {
-    "2025-01-20": 6993,
-    "2025-01-21": 462,
-    "2025-01-22": 0
+    "2025-01-20": 7022,
+    "2025-01-21": 0,
+    "2025-01-22": 1256
   },
   "todayWordCount": {
-    "知识库/git/git笔记.md": {
-      "initial": 8727,
-      "current": 8727
-    },
-    "conflict-files-obsidian-git.md": {
-      "initial": 703,
-      "current": 703
-    },
-    "知识库/node/node命令.md": {
-      "initial": 259,
-      "current": 259
-    },
-    "Daily/2025-01-20.md": {
-      "initial": 4,
-      "current": 4
-    },
     "Mi/syzkaller/语法描述.md": {
-      "initial": 985,
+      "initial": 946,
       "current": 946
     },
     "Mi/syzkaller/配置文件.md": {
       "initial": 6996,
       "current": 6996
+    },
+    "Mi/syzkaller/未命名.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Mi/syzkaller/Doc 文件夹下部分配置说明.md": {
+      "initial": 2,
+      "current": 1258
+    },
+    "Mi/syzkaller/doc 翻译/配置文件.md": {
+      "initial": 6996,
+      "current": 6984
+    },
+    "Mi/syzkaller/doc 翻译/Syscall descriptions.md": {
+      "initial": 2969,
+      "current": 2948
+    },
+    "Mi/syzkaller/doc 翻译/headerparser_usage.md": {
+      "initial": 2400,
+      "current": 2400
+    },
+    "syscall_descriptions_syntax.md": {
+      "initial": 0,
+      "current": 0
     }
   },
   "weeklyPlan": {},
