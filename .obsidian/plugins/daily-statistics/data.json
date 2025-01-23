@@ -2,40 +2,17 @@
   "dayCounts": {
     "2025-01-20": 7022,
     "2025-01-21": 0,
-    "2025-01-22": 1256
+    "2025-01-22": 1256,
+    "2025-01-23": 45
   },
   "todayWordCount": {
-    "Mi/syzkaller/语法描述.md": {
-      "initial": 946,
-      "current": 946
-    },
-    "Mi/syzkaller/配置文件.md": {
-      "initial": 6996,
-      "current": 6996
-    },
-    "Mi/syzkaller/未命名.md": {
+    "Daily/2025-01-23.md": {
       "initial": 0,
-      "current": 0
+      "current": 45
     },
-    "Mi/syzkaller/Doc 文件夹下部分配置说明.md": {
-      "initial": 2,
-      "current": 1258
-    },
-    "Mi/syzkaller/doc 翻译/配置文件.md": {
-      "initial": 6996,
-      "current": 6984
-    },
-    "Mi/syzkaller/doc 翻译/Syscall descriptions.md": {
-      "initial": 2969,
-      "current": 2948
-    },
-    "Mi/syzkaller/doc 翻译/headerparser_usage.md": {
-      "initial": 2400,
-      "current": 2400
-    },
-    "syscall_descriptions_syntax.md": {
-      "initial": 0,
-      "current": 0
+    "Daily/2025-01-20.md": {
+      "initial": 4,
+      "current": 4
     }
   },
   "weeklyPlan": {},

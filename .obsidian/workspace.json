@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f31ececc2f3d942e",
+        "id": "dab2765d9231f584",
         "type": "tabs",
         "children": [
           {
-            "id": "795ef90ed04efff4",
+            "id": "3f109d072996a23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi/syzkaller/doc 翻译/Syscall descriptions.md",
+                "file": "Daily/2025-01-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syscall descriptions"
+              "title": "2025-01-23"
             }
           }
         ]
@@ -210,13 +210,15 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "c01cb3ff5dbfba79",
+  "active": "3f109d072996a23e",
   "lastOpenFiles": [
+    "Daily/2025-01-20.md",
+    "Daily/2025-01-23.md",
+    "Mi/syzkaller/doc 翻译/Syscall descriptions.md",
     "Mi/自动抓 dump.md",
     "Mi/Untitled.md",
     "Mi/syzkaller/doc 翻译/syscall_descriptions_syntax.md",
     "syscall_descriptions_syntax.md",
-    "Mi/syzkaller/doc 翻译/Syscall descriptions.md",
     "Mi/syzkaller/doc 翻译/headerparser_usage.md",
     "Mi/syzkaller/doc 翻译/配置文件.md",
     "Mi/syzkaller/doc 翻译/Untitled.md",
@@ -237,7 +239,6 @@
     "｜啊实打实.md",
     "().md",
     "白板/test.canvas",
-    "Daily/2025-01-20.md",
     "test.md",
     "白板",
     "未命名.canvas",
@@ -252,7 +253,6 @@
     "Pasted image 20250120160255.png",
     "Linux/images/image-20250120160222224.png",
     "知识库/git 操作~.md",
-    "知识库/Untitled.md",
     "知识库"
   ]
 }
