@@ -13,11 +13,31 @@ fastboot oem ramdump qpst
   fastboot oem ramdump fat
   ```
 
-  
+- 暗码修改
 
-### O2提高hub充电电流
+```shell
+*#*#27274#*#*
+```
+
+
+
+### O1提高hub充电电流
 
 ```shell
 adb shell "echo mtbf buck 1500 > /sys/class/xm_power/charger/charge_interface/iin_limit"
 ```
 
+
+
+### 关闭子系统重启命令
+
+```Bash
+ adb root
+ adb shell
+ 
+ adb shell setprop persist.vendor.ssr.restart_level  ALL_ENABLE   //开启所有子系统SSR
+ setprop persist.vendor.ssr.restart_level  ALL_DISABLE   //关闭所有子系统SSR
+ setprop persist.vendor.ssr.restart_level  adsp,wlan  //开启adsp，wlan子系统SSR
+ 
+adb shell getprop persist.vendor.ssr.restart_level    //查询SSR开启情况
+```

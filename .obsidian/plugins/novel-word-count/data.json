@@ -145,26 +145,26 @@
     "知识库/android/安卓分区.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 679,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.263333333333333,
-      "characterCount": 1378,
-      "nonWhitespaceCharacterCount": 1286,
-      "readingTimeInMinutes": 1.4927924528301886,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1739177986531,
       "modifiedDate": 1739178232588,
       "sizeInBytes": 2718,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.263333333333333,
-        "wordCount": 679,
-        "characterCount": 1378,
-        "nonWhitespaceCharacterCount": 1286
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "白板/test.canvas": {
@@ -220,26 +220,26 @@
     "Mi/tools/自动抓 dump.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 123,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 915,
-      "nonWhitespaceCharacterCount": 782,
-      "readingTimeInMinutes": 0.4286792452830189,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1737599102984,
       "modifiedDate": 1739178001554,
       "sizeInBytes": 957,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.41,
-        "wordCount": 123,
-        "characterCount": 915,
-        "nonWhitespaceCharacterCount": 782
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Mi/tools/跳过开机引导.md": {
@@ -265,6 +265,31 @@
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Mi/tools/恢复出厂设置.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 99,
+      "nonWhitespaceCharacterCount": 86,
+      "readingTimeInMinutes": 0.049962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739264139960,
+      "modifiedDate": 1739264175696,
+      "sizeInBytes": 115,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 99,
+        "nonWhitespaceCharacterCount": 86
       }
     },
     "Mi/tools/批量刷机.md": {
@@ -295,31 +320,6 @@
     "Mi/tools/adb 批量处理脚本.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 415,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3833333333333333,
-      "characterCount": 2786,
-      "nonWhitespaceCharacterCount": 2117,
-      "readingTimeInMinutes": 1.1652075471698113,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739181220899,
-      "modifiedDate": 1739181275310,
-      "sizeInBytes": 3248,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.3833333333333333,
-        "wordCount": 415,
-        "characterCount": 2786,
-        "nonWhitespaceCharacterCount": 2117
-      }
-    },
-    "Mi/syzkaller/问题记录.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
       "noteCount": 0,
       "wordCount": 0,
       "wordCountTowardGoal": 0,
@@ -331,9 +331,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739013265227,
-      "modifiedDate": 1739013543407,
-      "sizeInBytes": 5863,
+      "createdDate": 1739181220899,
+      "modifiedDate": 1739181275310,
+      "sizeInBytes": 3248,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -367,32 +367,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Mi/syzkaller/fuzz 的一些配置命令.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 89,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 320,
-      "nonWhitespaceCharacterCount": 263,
-      "readingTimeInMinutes": 0.22233962264150944,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739008774511,
-      "modifiedDate": 1739154261554,
-      "sizeInBytes": 466,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2966666666666667,
-        "wordCount": 89,
-        "characterCount": 320,
-        "nonWhitespaceCharacterCount": 263
-      }
-    },
-    "Mi/syzkaller/doc 翻译/program_syntax.md": {
+    "Mi/syzkaller/问题记录.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -406,15 +381,40 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1737529849954,
-      "modifiedDate": 1737530851672,
-      "sizeInBytes": 3912,
+      "createdDate": 1739013265227,
+      "modifiedDate": 1739013543407,
+      "sizeInBytes": 5863,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Mi/syzkaller/fuzz 的一些配置命令.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 154,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5133333333333333,
+      "characterCount": 697,
+      "nonWhitespaceCharacterCount": 585,
+      "readingTimeInMinutes": 0.40022641509433965,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739008774511,
+      "modifiedDate": 1739447526055,
+      "sizeInBytes": 921,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5133333333333333,
+        "wordCount": 154,
+        "characterCount": 697,
+        "nonWhitespaceCharacterCount": 585
       }
     },
     "Mi/syzkaller/doc 翻译/syscall_descriptions_syntax.md": {
@@ -484,6 +484,31 @@
       "createdDate": 1737528051362,
       "modifiedDate": 1737530958794,
       "sizeInBytes": 10144,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Mi/syzkaller/doc 翻译/program_syntax.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1737529849954,
+      "modifiedDate": 1737530851672,
+      "sizeInBytes": 3912,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
