@@ -36,8 +36,19 @@ adb shell "echo mtbf buck 1500 > /sys/class/xm_power/charger/charge_interface/ii
  adb shell
  
  adb shell setprop persist.vendor.ssr.restart_level  ALL_ENABLE   //开启所有子系统SSR
- setprop persist.vendor.ssr.restart_level  ALL_DISABLE   //关闭所有子系统SSR
- setprop persist.vendor.ssr.restart_level  adsp,wlan  //开启adsp，wlan子系统SSR
+ adb shell setprop persist.vendor.ssr.restart_level  ALL_DISABLE   //关闭所有子系统SSR
+ adb shell setprop persist.vendor.ssr.restart_level  adsp,wlan  //开启adsp，wlan子系统SSR
  
 adb shell getprop persist.vendor.ssr.restart_level    //查询SSR开启情况
 ```
+
+
+
+### 查看DP（debugpolicy）是否开启
+
+https://security.pt.xiaomi.com/#/dp/flashDebugPolicy
+
+```sh
+检查dp命令：adb shell getprop ro.boot.dp，高通和MTK新项目 0XB为开启，MTK老项目 2为开启
+```
+
