@@ -212,6 +212,7 @@
   },
   "active": "3f109d072996a23e",
   "lastOpenFiles": [
+    "push.sh",
     "Daily/2025-01-20.md",
     "Daily/2025-01-23.md",
     "Mi/syzkaller/doc 翻译/Syscall descriptions.md",
@@ -252,7 +253,6 @@
     "Linux/attachment",
     "Pasted image 20250120160255.png",
     "Linux/images/image-20250120160222224.png",
-    "知识库/git 操作~.md",
     "知识库"
   ]
 }
