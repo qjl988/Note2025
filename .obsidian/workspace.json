@@ -139,20 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mi/syzkaller/配置文件.md"
+                "file": "Mi/syzkaller/输出界面参数说明.md"
               },
               "icon": "lucide-list",
-              "title": "配置文件 的大纲"
-            }
-          },
-          {
-            "id": "c01cb3ff5dbfba79",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "输出界面参数说明 的大纲"
             }
           },
           {
@@ -185,14 +175,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mi/syzkaller/doc 翻译/Syscall descriptions.md"
+                "file": "Mi/syzkaller/输出界面参数说明.md"
               },
               "icon": "lucide-info",
-              "title": "Syscall descriptions的笔记属性"
+              "title": "输出界面参数说明的笔记属性"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,7 +200,7 @@
       "switcher:打开快速切换": false
     }
   },
-  "active": "3f109d072996a23e",
+  "active": "ef2bf3a7f3e1d82d",
   "lastOpenFiles": [
     "push.sh",
     "Daily/2025-01-20.md",
