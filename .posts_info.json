@@ -1,0 +1,1180 @@
+{
+  "tags_paths" : {
+
+  },
+  "documents_meta_info" : {
+    "Mi\/syzkaller\/命令 log.md" : {
+
+    },
+    "Mi\/syzkaller\/log.md" : {
+
+    },
+    "tmp\/reply.md" : {
+
+    },
+    "Mi\/syzkaller\/输出界面参数说明.md" : {
+
+    },
+    "知识库\/linux\/apt 命令.md" : {
+
+    },
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : {
+
+    },
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : {
+
+    },
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : {
+
+    },
+    "Mi\/tools\/跳过开机引导.md" : {
+
+    },
+    "Mi\/tools\/自动抓 dump.md" : {
+
+    },
+    "Mi\/tools\/恢复出厂设置.md" : {
+
+    },
+    "Mi\/tools\/批量刷机.md" : {
+
+    },
+    "Daily\/2025-01-20.md" : {
+
+    },
+    "Mi\/syzkaller\/代码笔记.md" : {
+
+    },
+    "知识库\/git\/git笔记.md" : {
+
+    },
+    "Mi\/syzkaller\/syscall-log 整理.md" : {
+
+    },
+    "知识库\/node\/node命令.md" : {
+
+    },
+    "IOS\/swift 基础语法.md" : {
+
+    },
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : {
+
+    },
+    "知识库\/git\/git 操作.md" : {
+
+    },
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : {
+
+    },
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : {
+
+    },
+    "README.md" : {
+
+    },
+    "Mi\/syzkaller\/环境配置和搭建.md" : {
+
+    },
+    "Mi\/syzkaller\/问题记录.md" : {
+
+    },
+    "Mi\/tools\/adb 批量处理脚本.md" : {
+
+    },
+    "Mi\/syzkaller\/语法描述.md" : {
+
+    },
+    "知识库\/android\/常用命令.md" : {
+
+    },
+    "Mi\/syzkaller\/代码修改笔记.md" : {
+
+    },
+    "知识库\/android\/安卓分区.md" : {
+
+    },
+    "Daily\/2025-01-23.md" : {
+
+    },
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : {
+
+    },
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : {
+
+    }
+  },
+  "documents_info" : {
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Daily\/2025-01-23.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/tools\/跳过开机引导.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "知识库\/linux\/apt 命令.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/tools\/批量刷机.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/代码修改笔记.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "Mi\/tools\/adb 批量处理脚本.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "知识库\/android\/常用命令.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+        {
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/pkg\/mgrconfig\/config.go",
+          "name" : "config 源码"
+        }
+      ]
+    },
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "Mi\/tools\/恢复出厂设置.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/log.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "知识库\/node\/node命令.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "知识库\/git\/git 操作.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+        {
+          "name" : "这里",
+          "path" : "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md"
+        },
+        {
+          "name" : "headerparser",
+          "path" : "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md"
+        }
+      ],
+      "links" : [
+        {
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/sys\/linux\/dev_snd_midi.txt",
+          "name" : "sys\/linux\/dev_snd_midi.txt"
+        },
+        {
+          "name" : "prog\/prog.go",
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/prog.go"
+        },
+        {
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/analysis.go",
+          "name" : "分析"
+        },
+        {
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/rand.go",
+          "name" : "生成"
+        },
+        {
+          "name" : "变异",
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/mutation.go"
+        },
+        {
+          "name" : "最小化",
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/minimization.go"
+        },
+        {
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/validation.go",
+          "name" : "验证"
+        },
+        {
+          "name" : "转换",
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/encoding.go"
+        },
+        {
+          "name" : "二进制表示",
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/prog\/decodeexec.go"
+        },
+        {
+          "name" : "executor",
+          "url" : "https:\/\/github.com\/google\/syzkaller\/blob\/master\/executor\/executor.cc"
+        },
+        {
+          "url" : "https:\/\/github.com\/google\/syzkaller\/issues\/590",
+          "name" : "公开的问题"
+        },
+        {
+          "url" : "https:\/\/marketplace.visualstudio.com\/items?itemName=AndreyArtemiev.syzlang-extension&ssr=false#overview",
+          "name" : "syz-lang 扩展"
+        }
+      ]
+    },
+    "Mi\/syzkaller\/命令 log.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "IOS\/swift 基础语法.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "知识库\/android\/安卓分区.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/输出界面参数说明.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/语法描述.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "知识库\/git\/git笔记.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+        {
+          "name" : "juejin.cn",
+          "url" : "https:\/\/juejin.cn\/post\/6844903598522908686"
+        },
+        {
+          "url" : "https:\/\/link.juejin.cn\/?target=https%3A%2F%2Fwww.codercc.com",
+          "name" : "www.codercc.com"
+        },
+        {
+          "url" : "https:\/\/link.juejin.cn\/?target=https%3A%2F%2Fwww.liaoxuefeng.com%2Fwiki%2F0013739516305929606dd18361248578c67b8067c8c017b000",
+          "name" : "参考廖雪峰老师的博文"
+        },
+        {
+          "name" : "非常详细准确的git学习资料",
+          "url" : "https:\/\/link.juejin.cn\/?target=https%3A%2F%2Fgit-scm.com%2Fbook%2Fzh%2Fv1%2F%25E8%25B5%25B7%25E6%25AD%25A5-%25E5%2585%25B3%25E4%25BA%258E%25E7%2589%2588%25E6%259C%25AC%25E6%258E%25A7%25E5%2588%25B6"
+        },
+        {
+          "name" : "git-cheat-sheet中文版",
+          "url" : "https:\/\/link.juejin.cn\/?target=https%3A%2F%2Fgithub.com%2Fflyhigher139%2FGit-Cheat-Sheet%23%25E9%2585%258D%25E7%25BD%25AE"
+        },
+        {
+          "name" : "命令总结，资料一般，不够详细，作参考",
+          "url" : "https:\/\/link.juejin.cn\/?target=http%3A%2F%2Fwww.ruanyifeng.com%2Fblog%2F2015%2F12%2Fgit-cheat-sheet.html"
+        }
+      ]
+    },
+    "Mi\/syzkaller\/代码笔记.md" : {
+      "links" : [
+
+      ],
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Daily\/2025-01-20.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/问题记录.md" : {
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/syscall-log 整理.md" : {
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ],
+      "images" : [
+
+      ]
+    },
+    "Mi\/tools\/自动抓 dump.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "tmp\/reply.md" : {
+      "attachments" : [
+
+      ],
+      "images" : [
+
+      ],
+      "links" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/环境配置和搭建.md" : {
+      "images" : [
+
+      ],
+      "links" : [
+
+      ],
+      "attachments" : [
+
+      ]
+    },
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : {
+      "images" : [
+
+      ],
+      "attachments" : [
+
+      ],
+      "links" : [
+
+      ]
+    }
+  },
+  "sorted_relative_paths_by_date_with_sort_value" : {
+    "Daily\/2025-01-23.md" : 1737599360,
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : 1737530884,
+    "Mi\/tools\/恢复出厂设置.md" : 1739264139,
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : 1737531100,
+    "Mi\/tools\/批量刷机.md" : 1738998242,
+    "知识库\/node\/node命令.md" : 1737426400,
+    "知识库\/android\/常用命令.md" : 1739760554,
+    "IOS\/swift 基础语法.md" : 1737173675,
+    "Mi\/syzkaller\/输出界面参数说明.md" : 1739499495,
+    "知识库\/git\/git笔记.md" : 1737426400,
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : 1739758751,
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : 1737528051,
+    "tmp\/reply.md" : 1739530674,
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : 1737528082,
+    "Mi\/tools\/自动抓 dump.md" : 1737599102,
+    "知识库\/git\/git 操作.md" : 1737426400,
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : 1737529849,
+    "Mi\/syzkaller\/环境配置和搭建.md" : 1739518231,
+    "Mi\/syzkaller\/语法描述.md" : 1737528051,
+    "Mi\/syzkaller\/问题记录.md" : 1739013265,
+    "Mi\/syzkaller\/syscall-log 整理.md" : 1739774883,
+    "Mi\/syzkaller\/log.md" : 1739521123,
+    "Mi\/syzkaller\/代码修改笔记.md" : 1739521318,
+    "知识库\/android\/安卓分区.md" : 1739177986,
+    "Mi\/tools\/adb 批量处理脚本.md" : 1739181220,
+    "Mi\/tools\/跳过开机引导.md" : 1739022770,
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : 1737531650,
+    "知识库\/linux\/apt 命令.md" : 1739960910,
+    "Mi\/syzkaller\/命令 log.md" : 1739501270,
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : 1739008774,
+    "Daily\/2025-01-20.md" : 1737360847,
+    "Mi\/syzkaller\/代码笔记.md" : 1739517839
+  },
+  "relative_paths" : [
+    "知识库\/linux\/apt 命令.md",
+    "知识库\/android\/常用命令.md",
+    "知识库\/android\/安卓分区.md",
+    "知识库\/node\/node命令.md",
+    "知识库\/git\/git 操作.md",
+    "知识库\/git\/git笔记.md",
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md",
+    "Mi\/syzkaller\/代码修改笔记.md",
+    "Mi\/syzkaller\/语法描述.md",
+    "Mi\/syzkaller\/命令 log.md",
+    "Mi\/syzkaller\/syscall-log 整理.md",
+    "Mi\/syzkaller\/问题记录.md",
+    "Mi\/syzkaller\/log.md",
+    "Mi\/syzkaller\/代码笔记.md",
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md",
+    "Mi\/syzkaller\/输出界面参数说明.md",
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md",
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md",
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md",
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md",
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md",
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md",
+    "Mi\/syzkaller\/环境配置和搭建.md",
+    "Mi\/tools\/adb 批量处理脚本.md",
+    "Mi\/tools\/恢复出厂设置.md",
+    "Mi\/tools\/跳过开机引导.md",
+    "Mi\/tools\/自动抓 dump.md",
+    "Mi\/tools\/批量刷机.md",
+    "Daily\/2025-01-20.md",
+    "Daily\/2025-01-23.md",
+    "IOS\/swift 基础语法.md",
+    "tmp\/reply.md"
+  ],
+  "links_backward_paths" : {
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : [
+      "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md"
+    ],
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : [
+      "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md"
+    ],
+    "Mi\/syzkaller\/doc 翻译\/coverage.md" : [
+      "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md"
+    ]
+  },
+  "files_mtime_info" : {
+    "Mi\/syzkaller\/命令 log.md" : 1739501311,
+    "知识库\/git\/git 操作.md" : 1737426400,
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : 1737530958,
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : 1737531651,
+    "知识库\/node\/node命令.md" : 1737426400,
+    "README.md" : 1737173744,
+    "Mi\/syzkaller\/代码修改笔记.md" : 1739531006,
+    "知识库\/android\/常用命令.md" : 1739862988,
+    "知识库\/linux\/apt 命令.md" : 1739960957,
+    "Daily\/2025-01-20.md" : 1737367567,
+    "IOS\/swift 基础语法.md" : 1737207300,
+    "Mi\/tools\/自动抓 dump.md" : 1739178001,
+    "Mi\/syzkaller\/代码笔记.md" : 1739517912,
+    "Mi\/tools\/批量刷机.md" : 1738998294,
+    "tmp\/reply.md" : 1739535256,
+    "Mi\/syzkaller\/环境配置和搭建.md" : 1739520479,
+    "Mi\/syzkaller\/输出界面参数说明.md" : 1739522910,
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : 1739448601,
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : 1737530851,
+    "Mi\/tools\/恢复出厂设置.md" : 1739264175,
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : 1739759201,
+    "Daily\/2025-01-23.md" : 1737599603,
+    "Mi\/tools\/adb 批量处理脚本.md" : 1740017630,
+    "Mi\/syzkaller\/问题记录.md" : 1739013543,
+    "知识库\/android\/安卓分区.md" : 1739530715,
+    "Mi\/syzkaller\/语法描述.md" : 1737530333,
+    "Mi\/syzkaller\/syscall-log 整理.md" : 1739774924,
+    "Mi\/tools\/跳过开机引导.md" : 1739022843,
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : 1737530898,
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : 1737530885,
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : 1737531542,
+    "知识库\/git\/git笔记.md" : 1737426400,
+    "Mi\/syzkaller\/log.md" : 1739521150
+  },
+  "sorted_relative_paths_with_sort_value" : {
+    "Mi\/syzkaller\/代码笔记.md" : 1739517912,
+    "IOS\/swift 基础语法.md" : 1737207300,
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : 1737531542,
+    "Mi\/tools\/恢复出厂设置.md" : 1739264175,
+    "Mi\/tools\/跳过开机引导.md" : 1739022843,
+    "Mi\/syzkaller\/代码修改笔记.md" : 1739531006,
+    "Mi\/tools\/批量刷机.md" : 1738998294,
+    "知识库\/android\/安卓分区.md" : 1739530715,
+    "Daily\/2025-01-20.md" : 1737367567,
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : 1739448601,
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : 1737530958,
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : 1737530885,
+    "知识库\/linux\/apt 命令.md" : 1739960957,
+    "Mi\/syzkaller\/输出界面参数说明.md" : 1739522910,
+    "Mi\/syzkaller\/环境配置和搭建.md" : 1739520479,
+    "Mi\/tools\/自动抓 dump.md" : 1739178001,
+    "知识库\/android\/常用命令.md" : 1739862988,
+    "Mi\/syzkaller\/log.md" : 1739521150,
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : 1737530898,
+    "Mi\/syzkaller\/问题记录.md" : 1739013543,
+    "Mi\/syzkaller\/命令 log.md" : 1739501311,
+    "tmp\/reply.md" : 1739535256,
+    "Mi\/syzkaller\/语法描述.md" : 1737530333,
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : 1739759201,
+    "知识库\/git\/git笔记.md" : 1737426400,
+    "知识库\/git\/git 操作.md" : 1737426400,
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : 1737530851,
+    "Mi\/tools\/adb 批量处理脚本.md" : 1740017630,
+    "知识库\/node\/node命令.md" : 1737426400,
+    "Mi\/syzkaller\/syscall-log 整理.md" : 1739774924,
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : 1737531651,
+    "Daily\/2025-01-23.md" : 1737599603
+  },
+  "words_info" : {
+    "Mi\/syzkaller\/问题记录.md" : 470,
+    "知识库\/android\/安卓分区.md" : 694,
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : 750,
+    "tmp\/reply.md" : 31,
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : 214,
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : 428,
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : 0,
+    "Mi\/syzkaller\/代码笔记.md" : 208,
+    "IOS\/swift 基础语法.md" : 5,
+    "知识库\/android\/常用命令.md" : 1466,
+    "Mi\/tools\/恢复出厂设置.md" : 18,
+    "Mi\/syzkaller\/命令 log.md" : 168,
+    "Mi\/syzkaller\/log.md" : 12734,
+    "知识库\/node\/node命令.md" : 65,
+    "知识库\/linux\/apt 命令.md" : 349,
+    "Mi\/syzkaller\/代码修改笔记.md" : 316,
+    "Mi\/syzkaller\/syscall-log 整理.md" : 29,
+    "Mi\/tools\/自动抓 dump.md" : 121,
+    "Mi\/tools\/跳过开机引导.md" : 396,
+    "Mi\/tools\/批量刷机.md" : 442,
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : 1862,
+    "Daily\/2025-01-20.md" : 1,
+    "Mi\/syzkaller\/语法描述.md" : 311,
+    "知识库\/git\/git 操作.md" : 123,
+    "Mi\/tools\/adb 批量处理脚本.md" : 314,
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : 1089,
+    "Mi\/syzkaller\/环境配置和搭建.md" : 147,
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : 401,
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : 221,
+    "Daily\/2025-01-23.md" : 11,
+    "Mi\/syzkaller\/输出界面参数说明.md" : 1802,
+    "知识库\/git\/git笔记.md" : 3444
+  },
+  "relative_folders" : [
+    "知识库",
+    "知识库\/linux",
+    "知识库\/android",
+    "知识库\/node",
+    "知识库\/git",
+    "Mi",
+    "Mi\/syzkaller",
+    "Mi\/syzkaller\/补充笔记",
+    "Mi\/syzkaller\/doc 翻译",
+    "Mi\/tools",
+    "白板",
+    "Daily",
+    "IOS",
+    "MWebLibrary",
+    "MWebLibrary\/docs",
+    "MWebLibrary\/metadata",
+    "Linux",
+    "tmp"
+  ],
+  "todo_list" : {
+
+  },
+  "wiki_data_version" : "0.1",
+  "path_name_info" : {
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : "program_syntax",
+    "知识库\/git\/git 操作.md" : "git 操作",
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : "配置文件",
+    "Mi\/syzkaller\/代码修改笔记.md" : "代码修改笔记",
+    "Mi\/tools\/批量刷机.md" : "批量刷机",
+    "tmp\/reply.md" : "reply",
+    "知识库\/git\/git笔记.md" : "git笔记",
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : "syscall_descriptions_syntax",
+    "知识库\/node\/node命令.md" : "node命令",
+    "Mi\/tools\/自动抓 dump.md" : "自动抓 dump",
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : "fuzz 的一些配置命令",
+    "知识库\/android\/常用命令.md" : "常用命令",
+    "Mi\/syzkaller\/问题记录.md" : "问题记录",
+    "Mi\/syzkaller\/环境配置和搭建.md" : "环境配置和搭建",
+    "Mi\/syzkaller\/代码笔记.md" : "代码笔记",
+    "Mi\/syzkaller\/log.md" : "log",
+    "IOS\/swift 基础语法.md" : "swift 基础语法",
+    "Mi\/tools\/adb 批量处理脚本.md" : "adb 批量处理脚本",
+    "Mi\/syzkaller\/命令 log.md" : "命令 log",
+    "Mi\/tools\/跳过开机引导.md" : "跳过开机引导",
+    "Mi\/syzkaller\/syscall-log 整理.md" : "syscall-log 整理",
+    "知识库\/android\/安卓分区.md" : "安卓分区",
+    "Daily\/2025-01-23.md" : "2025-01-23",
+    "Mi\/syzkaller\/语法描述.md" : "语法描述",
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : "Syscall descriptions",
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : "headerparser_usage",
+    "Daily\/2025-01-20.md" : "2025-01-20",
+    "Mi\/syzkaller\/输出界面参数说明.md" : "输出界面参数说明",
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : "syscall 的关联性 （bind）",
+    "知识库\/linux\/apt 命令.md" : "apt 命令",
+    "Mi\/tools\/恢复出厂设置.md" : "恢复出厂设置",
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : "Doc 文件夹下部分配置说明"
+  },
+  "tags_tags" : {
+
+  },
+  "links_paths" : {
+    "IOS\/swift 基础语法.md" : [
+
+    ],
+    "Mi\/syzkaller\/输出界面参数说明.md" : [
+
+    ],
+    "Daily\/2025-01-20.md" : [
+
+    ],
+    "Mi\/syzkaller\/问题记录.md" : [
+
+    ],
+    "Mi\/tools\/恢复出厂设置.md" : [
+
+    ],
+    "知识库\/android\/安卓分区.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : [
+
+    ],
+    "知识库\/android\/常用命令.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : [
+
+    ],
+    "Mi\/tools\/adb 批量处理脚本.md" : [
+
+    ],
+    "Mi\/tools\/批量刷机.md" : [
+
+    ],
+    "知识库\/git\/git笔记.md" : [
+
+    ],
+    "Mi\/syzkaller\/syscall-log 整理.md" : [
+
+    ],
+    "知识库\/git\/git 操作.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : [
+
+    ],
+    "tmp\/reply.md" : [
+
+    ],
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : [
+
+    ],
+    "Daily\/2025-01-23.md" : [
+
+    ],
+    "Mi\/syzkaller\/代码笔记.md" : [
+
+    ],
+    "知识库\/linux\/apt 命令.md" : [
+
+    ],
+    "Mi\/syzkaller\/代码修改笔记.md" : [
+
+    ],
+    "Mi\/tools\/自动抓 dump.md" : [
+
+    ],
+    "Mi\/syzkaller\/环境配置和搭建.md" : [
+
+    ],
+    "知识库\/node\/node命令.md" : [
+
+    ],
+    "Mi\/syzkaller\/log.md" : [
+
+    ],
+    "Mi\/syzkaller\/命令 log.md" : [
+
+    ],
+    "Mi\/syzkaller\/语法描述.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : [
+
+    ],
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : [
+      "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md",
+      "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md",
+      "Mi\/syzkaller\/doc 翻译\/coverage.md"
+    ],
+    "Mi\/tools\/跳过开机引导.md" : [
+
+    ]
+  },
+  "filename_path_info" : {
+    "syscall descriptions" : "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md",
+    "环境配置和搭建" : "Mi\/syzkaller\/环境配置和搭建.md",
+    "git笔记" : "知识库\/git\/git笔记.md",
+    "syscall-log 整理" : "Mi\/syzkaller\/syscall-log 整理.md",
+    "2025-01-20" : "Daily\/2025-01-20.md",
+    "apt 命令" : "知识库\/linux\/apt 命令.md",
+    "代码笔记" : "Mi\/syzkaller\/代码笔记.md",
+    "git 操作" : "知识库\/git\/git 操作.md",
+    "问题记录" : "Mi\/syzkaller\/问题记录.md",
+    "headerparser_usage" : "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md",
+    "syscall_descriptions_syntax" : "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md",
+    "语法描述" : "Mi\/syzkaller\/语法描述.md",
+    "配置文件" : "Mi\/syzkaller\/doc 翻译\/配置文件.md",
+    "恢复出厂设置" : "Mi\/tools\/恢复出厂设置.md",
+    "swift 基础语法" : "IOS\/swift 基础语法.md",
+    "doc 文件夹下部分配置说明" : "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md",
+    "program_syntax" : "Mi\/syzkaller\/doc 翻译\/program_syntax.md",
+    "fuzz 的一些配置命令" : "Mi\/syzkaller\/fuzz 的一些配置命令.md",
+    "2025-01-23" : "Daily\/2025-01-23.md",
+    "代码修改笔记" : "Mi\/syzkaller\/代码修改笔记.md",
+    "自动抓 dump" : "Mi\/tools\/自动抓 dump.md",
+    "log" : "Mi\/syzkaller\/log.md",
+    "批量刷机" : "Mi\/tools\/批量刷机.md",
+    "syscall 的关联性 （bind）" : "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md",
+    "输出界面参数说明" : "Mi\/syzkaller\/输出界面参数说明.md",
+    "安卓分区" : "知识库\/android\/安卓分区.md",
+    "reply" : "tmp\/reply.md",
+    "node命令" : "知识库\/node\/node命令.md",
+    "常用命令" : "知识库\/android\/常用命令.md",
+    "命令 log" : "Mi\/syzkaller\/命令 log.md",
+    "跳过开机引导" : "Mi\/tools\/跳过开机引导.md",
+    "adb 批量处理脚本" : "Mi\/tools\/adb 批量处理脚本.md"
+  },
+  "sorted_relative_paths" : [
+    "Mi\/tools\/adb 批量处理脚本.md",
+    "知识库\/linux\/apt 命令.md",
+    "知识库\/android\/常用命令.md",
+    "Mi\/syzkaller\/syscall-log 整理.md",
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md",
+    "tmp\/reply.md",
+    "Mi\/syzkaller\/代码修改笔记.md",
+    "知识库\/android\/安卓分区.md",
+    "Mi\/syzkaller\/输出界面参数说明.md",
+    "Mi\/syzkaller\/log.md",
+    "Mi\/syzkaller\/环境配置和搭建.md",
+    "Mi\/syzkaller\/代码笔记.md",
+    "Mi\/syzkaller\/命令 log.md",
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md",
+    "Mi\/tools\/恢复出厂设置.md",
+    "Mi\/tools\/自动抓 dump.md",
+    "Mi\/tools\/跳过开机引导.md",
+    "Mi\/syzkaller\/问题记录.md",
+    "Mi\/tools\/批量刷机.md",
+    "Daily\/2025-01-23.md",
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md",
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md",
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md",
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md",
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md",
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md",
+    "Mi\/syzkaller\/语法描述.md",
+    "知识库\/git\/git笔记.md",
+    "知识库\/git\/git 操作.md",
+    "知识库\/node\/node命令.md",
+    "Daily\/2025-01-20.md",
+    "IOS\/swift 基础语法.md"
+  ],
+  "name_path_info" : {
+    "代码修改笔记" : "Mi\/syzkaller\/代码修改笔记.md",
+    "安卓分区" : "知识库\/android\/安卓分区.md",
+    "批量刷机" : "Mi\/tools\/批量刷机.md",
+    "syscall-log 整理" : "Mi\/syzkaller\/syscall-log 整理.md",
+    "自动抓 dump" : "Mi\/tools\/自动抓 dump.md",
+    "git笔记" : "知识库\/git\/git笔记.md",
+    "2025-01-20" : "Daily\/2025-01-20.md",
+    "恢复出厂设置" : "Mi\/tools\/恢复出厂设置.md",
+    "doc 文件夹下部分配置说明" : "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md",
+    "log" : "Mi\/syzkaller\/log.md",
+    "配置文件" : "Mi\/syzkaller\/doc 翻译\/配置文件.md",
+    "常用命令" : "知识库\/android\/常用命令.md",
+    "headerparser_usage" : "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md",
+    "syscall_descriptions_syntax" : "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md",
+    "跳过开机引导" : "Mi\/tools\/跳过开机引导.md",
+    "program_syntax" : "Mi\/syzkaller\/doc 翻译\/program_syntax.md",
+    "node命令" : "知识库\/node\/node命令.md",
+    "环境配置和搭建" : "Mi\/syzkaller\/环境配置和搭建.md",
+    "reply" : "tmp\/reply.md",
+    "语法描述" : "Mi\/syzkaller\/语法描述.md",
+    "fuzz 的一些配置命令" : "Mi\/syzkaller\/fuzz 的一些配置命令.md",
+    "git 操作" : "知识库\/git\/git 操作.md",
+    "问题记录" : "Mi\/syzkaller\/问题记录.md",
+    "2025-01-23" : "Daily\/2025-01-23.md",
+    "syscall 的关联性 （bind）" : "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md",
+    "readme" : "README.md",
+    "syscall descriptions" : "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md",
+    "adb 批量处理脚本" : "Mi\/tools\/adb 批量处理脚本.md",
+    "swift 基础语法" : "IOS\/swift 基础语法.md",
+    "命令 log" : "Mi\/syzkaller\/命令 log.md",
+    "代码笔记" : "Mi\/syzkaller\/代码笔记.md",
+    "输出界面参数说明" : "Mi\/syzkaller\/输出界面参数说明.md",
+    "apt 命令" : "知识库\/linux\/apt 命令.md"
+  },
+  "toc_info" : {
+    "Mi\/tools\/跳过开机引导.md" : [
+
+    ],
+    "知识库\/git\/git 操作.md" : [
+      "0,### 基本操作",
+      "1,### git基本配置",
+      "2,### git设置代理",
+      "3,### git提交流程",
+      "4,### git配置代理"
+    ],
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md" : [
+      "0,### 配置文件示例",
+      "1,### 配置文件源码翻译"
+    ],
+    "Mi\/tools\/自动抓 dump.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md" : [
+      "0,# headerparser_usage"
+    ],
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md" : [
+
+    ],
+    "知识库\/android\/安卓分区.md" : [
+      "0,### boot分区",
+      "1,### **system**",
+      "2,### **cache**",
+      "3,### **misc**",
+      "4,### **userdata**",
+      "5,### **metadata**",
+      "6,### **vendor**",
+      "7,### **radio**",
+      "8,### **tos**",
+      "9,### **product**",
+      "10,### **odm**"
+    ],
+    "知识库\/node\/node命令.md" : [
+      "0,### 1、设置http代理",
+      "1,### 2、取消代理",
+      "2,### 3、npm设置淘宝镜像",
+      "3,### 4、npm取消淘宝镜像",
+      "4,### 5、查看代理信息（当前配置）"
+    ],
+    "Mi\/syzkaller\/输出界面参数说明.md" : [
+      "0,### syscall 界面",
+      "1,### 数据界面"
+    ],
+    "Mi\/tools\/批量刷机.md" : [
+
+    ],
+    "tmp\/reply.md" : [
+
+    ],
+    "知识库\/git\/git笔记.md" : [
+      "0,# git基本操作，一篇文章就够了！",
+      "1,## 1\\. git简介",
+      "2,## 2\\. git配置命令",
+      "3,## 3\\. 工作区上的操作命令",
+      "4,## 4\\. 暂存区上的操作命令",
+      "5,## 5.本地仓库上的操作",
+      "6,## 6\\. 忽略文件.gitignore"
+    ],
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md" : [
+      "0,### bind",
+      "1,### other"
+    ],
+    "知识库\/linux\/apt 命令.md" : [
+      "0,### apt 命令",
+      "1,### dpkg 命令"
+    ],
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md" : [
+      "0,### FAT和qpst",
+      "1,### O1提高hub充电电流",
+      "2,### 关闭子系统重启命令",
+      "3,### 查看DP（debugpolicy）是否开启"
+    ],
+    "Daily\/2025-01-23.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md" : [
+      "0,# db",
+      "1,# 常用操作"
+    ],
+    "知识库\/android\/常用命令.md" : [
+      "0,# 基本操作相关",
+      "1,# 系统配置相关",
+      "2,# framework 相关",
+      "3,## AMS相关",
+      "4,### Activity相关",
+      "5,### 进程相关",
+      "6,### 其它",
+      "7,## WMS相关",
+      "8,#### 基本命令",
+      "9,#### Debug log 打开",
+      "10,## PMS相关",
+      "11,### 列出相关package信息",
+      "12,### 其它",
+      "13,## 日常开发相关",
+      "14,### 编译相关",
+      "15,### 刷机相关",
+      "16,### adb查看log",
+      "17,### 查看手机相关属性",
+      "18,### 开发调试相关",
+      "19,## 其它",
+      "20,### 内存信息查看",
+      "21,### Binder相关",
+      "22,### 稳定性相关",
+      "23,### Power相关",
+      "24,### 底层相关",
+      "25,### Selinux相关",
+      "26,### 录屏截图相关"
+    ],
+    "Mi\/syzkaller\/问题记录.md" : [
+      "0,# 无coverage信息"
+    ],
+    "Mi\/syzkaller\/命令 log.md" : [
+
+    ],
+    "IOS\/swift 基础语法.md" : [
+      "0,# 基本运算符"
+    ],
+    "Mi\/syzkaller\/代码笔记.md" : [
+      "0,# vm-adb.go"
+    ],
+    "Mi\/tools\/adb 批量处理脚本.md" : [
+
+    ],
+    "Mi\/syzkaller\/log.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md" : [
+      "0,# Program syntax"
+    ],
+    "Mi\/syzkaller\/syscall-log 整理.md" : [
+
+    ],
+    "Mi\/syzkaller\/语法描述.md" : [
+      "0,## 系统调用语法基础说明"
+    ],
+    "Mi\/syzkaller\/代码修改笔记.md" : [
+      "0,# vm",
+      "1,## adb"
+    ],
+    "Mi\/tools\/恢复出厂设置.md" : [
+
+    ],
+    "Mi\/syzkaller\/环境配置和搭建.md" : [
+
+    ],
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md" : [
+
+    ],
+    "Daily\/2025-01-20.md" : [
+
+    ]
+  },
+  "toc_hash_info" : {
+
+  },
+  "sorted_relative_paths_by_date" : [
+    "知识库\/linux\/apt 命令.md",
+    "Mi\/syzkaller\/syscall-log 整理.md",
+    "知识库\/android\/常用命令.md",
+    "Mi\/syzkaller\/补充笔记\/syscall 的关联性 （bind）.md",
+    "tmp\/reply.md",
+    "Mi\/syzkaller\/代码修改笔记.md",
+    "Mi\/syzkaller\/log.md",
+    "Mi\/syzkaller\/环境配置和搭建.md",
+    "Mi\/syzkaller\/代码笔记.md",
+    "Mi\/syzkaller\/命令 log.md",
+    "Mi\/syzkaller\/输出界面参数说明.md",
+    "Mi\/tools\/恢复出厂设置.md",
+    "Mi\/tools\/adb 批量处理脚本.md",
+    "知识库\/android\/安卓分区.md",
+    "Mi\/tools\/跳过开机引导.md",
+    "Mi\/syzkaller\/问题记录.md",
+    "Mi\/syzkaller\/fuzz 的一些配置命令.md",
+    "Mi\/tools\/批量刷机.md",
+    "Daily\/2025-01-23.md",
+    "Mi\/tools\/自动抓 dump.md",
+    "Mi\/syzkaller\/doc 翻译\/syscall_descriptions_syntax.md",
+    "Mi\/syzkaller\/doc 翻译\/Syscall descriptions.md",
+    "Mi\/syzkaller\/doc 翻译\/headerparser_usage.md",
+    "Mi\/syzkaller\/doc 翻译\/program_syntax.md",
+    "Mi\/syzkaller\/doc 翻译\/Doc 文件夹下部分配置说明.md",
+    "Mi\/syzkaller\/语法描述.md",
+    "Mi\/syzkaller\/doc 翻译\/配置文件.md",
+    "知识库\/node\/node命令.md",
+    "知识库\/git\/git笔记.md",
+    "知识库\/git\/git 操作.md",
+    "Daily\/2025-01-20.md",
+    "IOS\/swift 基础语法.md"
+  ]
+}

@@ -6,12 +6,7 @@
     "2025-01-23": 45,
     "2025-02-14": 3271
   },
-  "todayWordCount": {
-    "Mi/syzkaller/输出界面参数说明.md": {
-      "initial": 207,
-      "current": 3478
-    }
-  },
+  "todayWordCount": {},
   "weeklyPlan": {},
   "currentManuallyModifyWordCount": 0
 }

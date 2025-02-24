@@ -1,3 +1,78 @@
+# 运行f和a
+
+```sh
+#!/bin/bash
+
+# 执行 ADB 或 fastboot 命令并打印执行信息
+run_command() {
+    local command=$1
+    local description=$2
+    local device_serial=$3
+
+    if [ -n "$device_serial" ]; then
+        command="adb -s $device_serial $command"
+    fi
+
+    echo "[$device_serial] 执行: $description..."
+    result=$(eval "$command" 2>&1)
+    if [ $? -eq 0 ]; then
+        echo "[$device_serial] $description 完成: ${result:-'无输出'}"
+    else
+        echo "[$device_serial] 执行 $description 时出错: $result"
+    fi
+}
+
+# 获取所有已连接的设备序列号
+get_connected_devices() {
+    devices=$(adb devices | grep -w 'device' | awk '{print $1}')
+    echo "$devices"
+}
+
+# 配置设备
+configure_device() {
+    local device_serial=$1
+
+    # 亮屏
+    run_command "shell input keyevent 26" "亮屏" "$device_serial"
+    sleep 2
+
+    # 检查设备配置状态
+    run_command "shell settings get global device_provisioned" "检查设备配置状态" "$device_serial"
+
+    # 进入 fastboot 模式并重启
+    run_command "reboot bootloader" "进入 fastboot 模式" "$device_serial"
+    sleep 2
+    run_command "fastboot reboot" "重启设备" "$device_serial"
+    echo "[$device_serial] Android 设备设置已更新并重启。\n"
+}
+
+# 主程序
+devices=$(get_connected_devices)
+
+if [ -z "$devices" ]; then
+    echo "未检测到任何连接的 Android 设备。"
+else
+    device_count=$(echo "$devices" | wc -l)
+    echo "检测到 $device_count 台设备: $devices"
+    for device in $devices; do
+        echo -e "\n开始配置设备 [$device]..."
+        configure_device "$device"
+    done
+    echo "所有设备已配置完成。"
+fi
+```
+
+
+
+
+
+
+
+
+
+# wangsheng
+
+
 ```py
 import subprocess
 import time
@@ -55,17 +130,6 @@ if __name__ == "__main__":
 
     # 定义要执行的多个命令和描述
     commands = [
-        ("wait-for-device", "等待设备连接"),
-        ("root", "获取 ROOT 权限"),
-        ("shell setprop persist.vendor.ssr.restart_level ALL_DISABLE", "关闭子系统重启"),
-        ("shell settings put global systemui_keyguard_whitelist -1266261377", "设置系统 UI 锁屏白名单"),
-        ("shell settings put global systemui_float_whitelist -196939687", "设置浮动窗口白名单"),
-        ("shell settings put global miui_permission_check 3", "设置 MIUI 权限检查"),
-        ("shell settings put global miui_account_login_check 0", "关闭 MIUI 账号登录检查"),
-        ("shell settings put global device_provisioned 1", "设备已配置"),
-        ("shell settings put global miui_pre_version_otaprovision 140", "设置 MIUI 预版本 OTA 配置"),
-        ("shell settings put secure auto_download 0", "禁用自动下载"),
-        ("shell settings put secure auto_update 0", "禁用自动更新"),
         ("reboot", "系统重启"),
     ]
 
